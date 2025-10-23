@@ -34,11 +34,11 @@ The dataset contains details of employees and their participation in various tra
 
 | Page 1 | Page 2 |
 |----|----|
-| ![L1](pictures/L1.png) | ![L2](pictures/L2.png) |
+| ![Page 1](L1.png) | ![Page 2](L2.png) |
 
-| Page 3 | Page 4 |
+| Page 3 |
 |----|----|
-| ![L3](pictures/L3.png) | ![L4](pictures/L4.png) |
+| ![Page 3](L3.png) 
 
 ---
 
@@ -73,11 +73,11 @@ The dataset contains details of employee training performance and costs to analy
 
 | Page 1 | Page 2 |
 |----|----|
-| ![R1](pictures/R1.png) | ![R2](pictures/R2.png) |
+| ![Page 1](R1.png) | !Page 2](R2.png) |
 
 | Page 3 | Page 4 |
 |----|----|
-| ![R3](pictures/R3.png) | ![R4](pictures/R4.png) |
+| ![Page 3](R3.png) | ![Page 4](R4.png) |
 
 ---
 
