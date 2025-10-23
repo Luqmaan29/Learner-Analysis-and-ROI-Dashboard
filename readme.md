@@ -21,15 +21,24 @@ The Learning Analytics Dashboard tracks virtual training participation and learn
 - Completion Rate
 - Participation Rate
 
+**Dataset Description:**
+The dataset contains details of employees and their participation in various training programs.  
+**Columns Include:**
+- Employee_ID, Employee_Name, Department  
+- Training_ID, Training_Name  
+- Invited, Registered, Attended, Completed  
+- Feedback_Score  
+- Date of Training  
+
 **Dashboard Screenshots:**
 
 | Page 1 | Page 2 |
 |----|----|
-| ![L1](L1.png) | ![L2](L2.png) |
+| ![L1](pictures/L1.png) | ![L2](pictures/L2.png) |
 
 | Page 3 | Page 4 |
 |----|----|
-| ![L3](L3.png) 
+| ![L3](pictures/L3.png) | ![L4](pictures/L4.png) |
 
 ---
 
@@ -50,15 +59,25 @@ The Training ROI Analysis Dashboard measures the impact of training programs by 
 - ROI (Return on Investment)
 - Completion Rate and Participation Rate
 
+**Dataset Description:**
+The dataset contains details of employee training performance and costs to analyze ROI.  
+**Columns Include:**
+- Employee_ID, Employee_Name, Department  
+- Training_ID, Training_Name  
+- Invited, Registered, Attended, Completed  
+- Pre_Score, Post_Score  
+- Training_Cost  
+- Date of Training  
+
 **Dashboard Screenshots:**
 
 | Page 1 | Page 2 |
 |----|----|
-| ![R1](R1.png) | ![R2](R2.png) |
+| ![R1](pictures/R1.png) | ![R2](pictures/R2.png) |
 
 | Page 3 | Page 4 |
 |----|----|
-| ![R3](R3.png) | ![R4](R4.png) |
+| ![R3](pictures/R3.png) | ![R4](pictures/R4.png) |
 
 ---
 
@@ -66,19 +85,6 @@ The Training ROI Analysis Dashboard measures the impact of training programs by 
 - **Power BI** – For building interactive dashboards and visualizations.
 - **Excel** – For data preparation and preprocessing.
 - **Python (optional)** – For any data manipulation and calculations before importing to Power BI.
-
----
-
-## Dataset Description
-The dashboards use synthetic training data containing details of employees, training sessions, participation, completion, feedback, pre- and post-training scores, and training costs.
-
-**Columns Include:**
-- Employee_ID, Employee_Name, Department  
-- Training_ID, Training_Name  
-- Invited, Registered, Attended, Completed  
-- Pre_Score, Post_Score  
-- Date, Training_Cost  
-- Feedback_Score  
 
 ---
 
@@ -95,8 +101,3 @@ The dashboards use synthetic training data containing details of employees, trai
 - Email: [mohammedluqmaan29@gmail.com](mailto:mohammedluqmaan29@gmail.com)  
 - LinkedIn: [linkedin.com/MohammedLuqmaan](https://www.linkedin.com/in/mohammed-luqmaan-6a9114218/)  
 - GitHub: [github.com/Luqmaan29](https://github.com/Luqmaan29)
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
