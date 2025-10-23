@@ -73,11 +73,11 @@ The dataset contains details of employee training performance and costs to analy
 
 | Page 1 | Page 2 |
 |----|----|
-| [Page 1](R1.png) | [Page 2](R2.png) |
+| ![Page 1](R1.png) | ![Page 2](R2.png) |
 
 | Page 3 | Page 4 |
 |----|----|
-| [Page 3](R3.png) | ![Page 4](R4.png) |
+| ![Page 3](R3.png) | ![Page 4](R4.png) |
 
 ---
 
